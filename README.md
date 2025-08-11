@@ -35,8 +35,8 @@ Developers can access the API specifications directly at http://localhost:8000/d
 <img width="1000" height="580" alt="API Docs" src="https://github.com/user-attachments/assets/37419920-f279-4bb1-8ac3-495523d11083" />
 
 ### Registration and Login
-<img width="476" height="721" alt="Screenshot 2025-08-11 025609" src="https://github.com/user-attachments/assets/bd796445-532b-42e3-9ee4-7df0b289ebdc" />
-<img width="491" height="647" alt="Screenshot 2025-08-11 025633" src="https://github.com/user-attachments/assets/1e1f9073-3f49-4d9b-83dc-315e61d3f5fd" />
+<img width="380" height="575" alt="Screenshot 2025-08-11 025609" src="https://github.com/user-attachments/assets/bd796445-532b-42e3-9ee4-7df0b289ebdc" />
+<img width="380" height="500" alt="Screenshot 2025-08-11 025633" src="https://github.com/user-attachments/assets/1e1f9073-3f49-4d9b-83dc-315e61d3f5fd" />
 
 ### The Dashboard
 <img width="1000" height="675" alt="Screenshot 2025-08-11 030033" src="https://github.com/user-attachments/assets/3ef73072-29f3-45f5-bc99-b056a474834f" />
